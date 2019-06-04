@@ -1,8 +1,9 @@
 {
     "name": "nnc-alias-ts",
     "displayName": "nnc-alias-ts",
-    "description": "",
-    "version": "0.0.1",
+    "description": "nnc-alias",
+    "version": "1.0.0",
+    "publisher": "codeleey",
     "engines": {
         "vscode": "^1.34.0"
     },
@@ -49,5 +50,9 @@
         "tslint": "^5.12.1",
         "@types/node": "^10.12.21",
         "@types/mocha": "^2.2.42"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aweleey/nnc-alias-ts"
     }
 }
