@@ -1,1 +1,1 @@
-# Welcome to your VS Code Extension
+# nnc alias
