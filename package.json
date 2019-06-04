@@ -13,6 +13,7 @@
     "activationEvents": [
         "*"
     ],
+    "icon": "favicon.ico",
     "main": "./out/extension.js",
     "contributes": {
         "configuration": {
